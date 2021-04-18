@@ -1,0 +1,14 @@
+C:\XamarinProjects\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\Amiibopedia.deps.json
+C:\XamarinProjects\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\Amiibopedia.dll
+C:\XamarinProjects\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\ref\Amiibopedia.dll
+C:\XamarinProjects\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\Amiibopedia.pdb
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.csprojAssemblyReference.cache
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.AssemblyInfoInputs.cache
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.AssemblyInfo.cs
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.csproj.CoreCompileInputs.cache
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.dll
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\ref\Amiibopedia.dll
+C:\XamarinProjects\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.pdb
